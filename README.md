@@ -17,3 +17,20 @@ cordeiro maxime et echarif chefchaouni hicham
 - La collecte de données gère les exceptions.
 - Le programme est fonctionnel et hébergé sur Github, le projet a reçu au moins 3 commits (un par membre de l’équipe).
 - Une liste-compréhension est présente dans le programme et un f-string.
+
+## Installer les dépendances nécéssaires
+
+```python
+pip install -r requirements.txt
+```
+
+## commande pour le script
+
+python `app.py` `code postal`
+
+Exemple:  
+
+```bash
+python app.py 91300
+```
+
